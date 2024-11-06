@@ -124,3 +124,4 @@ D:\APIXIO.TRUECOSTIMPLEMENT\Window_Services\WorkerService_Simple_App\RealTimeApp
 D:\APIXIO.TRUECOSTIMPLEMENT\Window_Services\WorkerService_Simple_App\RealTimeApp\bin\Debug\net8.0\Microsoft.Extensions.Hosting.WindowsServices.dll
 D:\APIXIO.TRUECOSTIMPLEMENT\Window_Services\WorkerService_Simple_App\RealTimeApp\bin\Debug\net8.0\System.ServiceProcess.ServiceController.dll
 D:\APIXIO.TRUECOSTIMPLEMENT\Window_Services\WorkerService_Simple_App\RealTimeApp\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.ServiceProcess.ServiceController.dll
+D:\APIXIO.TRUECOSTIMPLEMENT\Window_Services\WorkerService_Simple_App\RealTimeApp\obj\Debug\net8.0\RealTimeApp.sourcelink.json

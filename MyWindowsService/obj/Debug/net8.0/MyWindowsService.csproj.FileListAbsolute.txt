@@ -58,3 +58,4 @@ D:\APIXIO.TRUECOSTIMPLEMENT\Window_Services\MyWindowsService\bin\Debug\net8.0\pu
 D:\APIXIO.TRUECOSTIMPLEMENT\Window_Services\MyWindowsService\bin\Debug\net8.0\publish\publish\MyWindowsService.deps.json
 D:\APIXIO.TRUECOSTIMPLEMENT\Window_Services\MyWindowsService\bin\Debug\net8.0\publish\publish\MyWindowsService.runtimeconfig.json
 D:\APIXIO.TRUECOSTIMPLEMENT\Window_Services\MyWindowsService\bin\Debug\net8.0\Quartz.dll
+D:\APIXIO.TRUECOSTIMPLEMENT\Window_Services\MyWindowsService\obj\Debug\net8.0\MyWindowsService.sourcelink.json
